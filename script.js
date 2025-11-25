@@ -6,4 +6,10 @@ let isOn = false;
 wireless.addEventListener('click', () => {
     isOn = !isOn;
     if (isOn) {
-        
+        bulb.classList.add('on');
+        bulbButton.classList.add('on');
+    } else {
+        bulb.classList.remove('on');
+        bulbButton.classList.remove('on');
+    }
+});
