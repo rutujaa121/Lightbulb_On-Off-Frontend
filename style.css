@@ -9,15 +9,19 @@ body{
     align-items: center;
     background: #222;
 }
-/* .main_container{
+.main_container{
     width: 200px;
     height: 400px;
-    background: #333;
     border-radius: 20px;
-    position: relative;
-    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
- .bulb_top{
+.switch_cover{
+    background-color: gray;
+    
+}
+/* .bulb_top{
     width: 120px;
     height: 120px;
     background: #ff0;
