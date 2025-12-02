@@ -1,0 +1,1 @@
+const wire = document.querySelector('wire');
