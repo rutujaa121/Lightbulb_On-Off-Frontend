@@ -34,9 +34,9 @@ body{
     border-radius: 50%;
     box-shadow: inset -2px -2px 5px rgba(0,0,0,0.2);
 }
-/* .switch{
+.switch{
     height: 54%;
     width: 54%;
     background-color: #333;
     background-color: rgb(184, 184, 184);
-} */
+}
